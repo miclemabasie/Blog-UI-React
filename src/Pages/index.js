@@ -1,0 +1,6 @@
+export { default as Home } from './Home/Home.jsx'
+export { default as Single } from './Single/Single.jsx'
+export { default as WriteEditPost } from './WriteEditPost/WriteEditPost.jsx'
+export { default as Settings } from './Settings/Settings.jsx'
+export { default as Login } from './Login/Login.jsx'
+export { default as Register } from './Register/Register.jsx'

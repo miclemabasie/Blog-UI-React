@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.link {
+    text-decoration: none;
+    color:"inherit"
+}
+
+.linkbtn {
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}
